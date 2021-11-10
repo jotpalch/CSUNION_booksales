@@ -8,6 +8,7 @@
 ### 找書名
 利用 pyhton 套件 `selenium` 動態爬蟲  
 用 ISBN 碼找書名  
+圖書資訊來源 : http://nbinet3.ncl.edu.tw/screens/opacmenu_cht.html
 ### 找書的封面照
 利用 pyhton 套件 `selenium`   
 google圖片搜尋 ISBN 碼 並截圖  
