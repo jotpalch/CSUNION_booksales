@@ -15,4 +15,7 @@ google圖片搜尋 ISBN 碼 並截圖
 ### 製作書單
 利用 python 套件 `pyimgur` 上傳圖片  
 將對應的 ISBN 碼與圖片網址用 markdown 印出  
-上傳至 HackMD  
+上傳至 HackMD   
+![](https://i.imgur.com/AxZTLol.png)
+網站連結:  
+https://hackmd.io/@jotpac/rkGj6w-rF
